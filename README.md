@@ -11,5 +11,6 @@ Microserviços com Micronaut
 
 --
 
-![](https://micronaut.io/foundation)
+![Micronaut logo](https://miro.medium.com/max/603/1*ZRHvGvVEAANthrjjLJjapg.png)
 
+https://micronaut.io/foundation
